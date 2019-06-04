@@ -67,10 +67,8 @@ Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and u
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
 | [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)                                                                 | Completed          | [post w/ notes](https://www.dmytronaida.com/2019/05/29/learning-the-command-line.html)
 |  [Learn Enough JavaScript to Be Dangerous](https://www.learnenough.com/javascript-tutorial/hello_world)                                                                | In progress        | [post w/ notes and solutions](http://127.0.0.1:4000/2019/06/04/Learning-Enough-JavaScript-to-be-dangerous.html)
+|  [Codecademy - Introduction To JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)                                                                |         | 
 | **Reading**                                                                                                                                                           | **Status** | **Evidence** |
-| [MDN HTML - Beginner's tutorials](https://developer.mozilla.org/en-US/docs/Web/HTML#Beginner's_tutorials)                                                             |            |
-| [MDN CSS - Tutorials](https://developer.mozilla.org/en-US/docs/Web/CSS#Tutorials)                                                                                     |            |
-| [MDN JavaScript - Tutorials - For Complete Beginners](https://developer.mozilla.org/en-US/docs/Web/JavaScript#For_complete_beginners)                                 |            |
 | [Eloquent JavaScript](https://eloquentjavascript.net/)                                                                                                                |            |
 | **Practice**                                                                                                                                                          | **Status** | **Evidence** |
 | [Google Home Page](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)                                                                       |            |
