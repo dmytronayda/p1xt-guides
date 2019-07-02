@@ -73,8 +73,8 @@ Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and u
 | **Practice**                                                                                                                                                          | **Status** | **Evidence** |
 | [Google Home Page](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)                                                                       |            |
 | [Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)                                                         |            |
-| Tier Programming Project                                                                                                                                              |            |
-| Tier Programming Project                                                                                                                                              |            |
+| [Colmar Academy](https://dmytronayda.github.io/colmar-academy/)                                                                                                                                              |    Completed        | [GitHub](https://github.com/dmytronayda/colmar-academy)
+| [Personal portfolio v.1](https://dmytronayda.github.io/portfolio/)                                                                                                                                              | Completed           | [GitHub](https://github.com/dmytronayda/portfolio)
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
 
