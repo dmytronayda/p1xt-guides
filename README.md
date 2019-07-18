@@ -75,7 +75,7 @@ Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and u
 | [Colmar Academy](https://dmytronayda.github.io/colmar-academy/)                                                                                                                                              |    Completed        | [GitHub](https://github.com/dmytronayda/colmar-academy)
 | [Personal portfolio v.1](https://dmytronayda.github.io/portfolio/)                                                                                                                                              | Completed           | [GitHub](https://github.com/dmytronayda/portfolio)
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
+| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |    Completed         | [website](https://www.dmytronaida.com/)
 
 ### Tier 1 - Getting Started
 
